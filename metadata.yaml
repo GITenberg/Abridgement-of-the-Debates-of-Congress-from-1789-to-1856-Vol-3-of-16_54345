@@ -1,0 +1,29 @@
+_repo: Abridgement-of-the-Debates-of-Congress-from-1789-to-1856-Vol-3-of-16_54345
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Benton, Thomas Hart
+    alias: Benton, Thomas H. (Thomas Hart)
+    birthdate: 1782
+    deathdate: 1858
+    gutenberg_agent_id: '378'
+    url: http://www.gutenberg.org/2009/agents/378
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hart_Benton_(senator)
+description: ''
+gutenberg_issued: '2017-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Abridgement of the Debates of Congress, from 1789 to 1856, Vol. 3 (of 16)
+url: http://www.gutenberg.org/ebooks/54345
